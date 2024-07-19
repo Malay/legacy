@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T11:56:27.010Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="tbALhcXSy9NvxFKfYmvv" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T12:08:31.093Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="kvIMCKgcybYhEWM53Utq" version="24.7.1" type="github">
   <diagram name="Page-1" id="Fa0bQ-jHsM6v-oD2tgcy">
-    <mxGraphModel dx="4968" dy="3032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5400" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="4140" dy="2527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5400" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -656,7 +656,7 @@
           <mxGeometry x="0.004324324324329609" y="47.5" width="155.67567567567565" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="6-QbLFjZhCQKoY5gVnMu-59" value="" style="group;fontSize=14;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="2048" y="185" width="153.95000000000016" height="95" as="geometry" />
+          <mxGeometry x="2048" y="164" width="153.95000000000016" height="95" as="geometry" />
         </mxCell>
         <mxCell id="6-QbLFjZhCQKoY5gVnMu-1" value="Prasad /&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;ପ୍ରସାଦ&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=1;fontSize=14;" parent="6-QbLFjZhCQKoY5gVnMu-59" vertex="1">
           <mxGeometry width="153.94594594594594" height="47.5" as="geometry" />
@@ -736,8 +736,8 @@
         <mxCell id="6-QbLFjZhCQKoY5gVnMu-91" value="Gunabati /&amp;nbsp;ଗୁଣବତୀ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFDEFC;strokeColor=#ae4132;fontStyle=1;fontSize=14;" parent="6-QbLFjZhCQKoY5gVnMu-92" vertex="1">
           <mxGeometry x="0.004324324324443296" y="95" width="155.67567567567565" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="6-QbLFjZhCQKoY5gVnMu-93" value="We are like monark butterflies. Generations spent in making what we are today." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="4737.84" y="1540" width="620" height="50" as="geometry" />
+        <mxCell id="6-QbLFjZhCQKoY5gVnMu-93" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;i&gt;&quot;We are like monarch butterflies, every generation builds upon the prior - embarking on a journey through time&amp;nbsp; shaping who we are today.&quot;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="4675.68" y="1540" width="620" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6-QbLFjZhCQKoY5gVnMu-94" value="" style="group;fontSize=14;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1970" y="534" width="155.67999999999995" height="95" as="geometry" />
@@ -1334,7 +1334,7 @@
           <mxGeometry x="5140.004324324324" y="948.5" width="155.67567567567565" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="De0PxG4or32B9p8G-UYy-113" value="" style="group;fontSize=14;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2320" y="185" width="153.95000000000016" height="95" as="geometry" />
+          <mxGeometry x="2320" y="164" width="153.95000000000016" height="95" as="geometry" />
         </mxCell>
         <mxCell id="De0PxG4or32B9p8G-UYy-114" value="Purastapa /&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;ପୁରସ୍ତପ&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;fontStyle=1;fontSize=14;" vertex="1" parent="De0PxG4or32B9p8G-UYy-113">
           <mxGeometry width="153.94594594594594" height="47.5" as="geometry" />
@@ -1342,11 +1342,8 @@
         <mxCell id="De0PxG4or32B9p8G-UYy-115" value="Paata /&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;ପାଟ&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFDEFC;strokeColor=#ae4132;fontStyle=1;fontSize=14;" vertex="1" parent="De0PxG4or32B9p8G-UYy-113">
           <mxGeometry x="0.0040540540542224335" y="47.5" width="153.94594594594594" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="De0PxG4or32B9p8G-UYy-118" value="&lt;font style=&quot;text-align: left; font-size: 28px;&quot;&gt;Vansh /&amp;nbsp;ବଂଶ: Geruaa / ଗେରୁଆ&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;div style=&quot;text-align: left; font-size: 28px;&quot;&gt;&lt;font style=&quot;font-size: 28px;&quot;&gt;Gotra /&amp;nbsp;ଗୋତ୍ର: Gayeghat / ଗାଏଘାଟ&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4900" y="75" width="420" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="De0PxG4or32B9p8G-UYy-119" value="FAMILY TREE: PATEL FAMILY, PANCHAPARIYA JAMA OF VILLAGE REMANDA, SUDARGARH, ODISHA, INDIA&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ପରିବାର ବୃକ୍ଷ:&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-size: 34px;&quot;&gt;ପଟେଲ ପରିବାର,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 34px; background-color: initial;&quot;&gt;ପଞ୍ଚପରିଆ ଜମା,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 34px;&quot;&gt;ଗ୍ରାମ ରେମଣ୍ଡା, ସୁନ୍ଦରଗଡ, ଓଡିଶା, ଭାରତ&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="40" y="50" width="1580" height="110" as="geometry" />
+        <mxCell id="De0PxG4or32B9p8G-UYy-119" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;FAMILY TREE: PATEL FAMILY, PANCHAPARIYA JAMA OF VILLAGE REMANDA, SUDARGARH, ODISHA, INDIA&lt;/font&gt;&lt;div style=&quot;font-size: 40px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ପରିବାର ବୃକ୍ଷ:&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ପଟେଲ ପରିବାର,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ପଞ୍ଚପରିଆ ଜମା,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ଗ୍ରାମ ରେମଣ୍ଡା, ସୁନ୍ଦରଗଡ, ଓଡିଶା, ଭାରତ&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="60" y="20" width="2070" height="170" as="geometry" />
         </mxCell>
         <mxCell id="De0PxG4or32B9p8G-UYy-127" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="4630.004324324324" y="902" width="155.99567567567556" height="142.5" as="geometry" />
@@ -1359,6 +1356,9 @@
         </mxCell>
         <mxCell id="De0PxG4or32B9p8G-UYy-126" value="Gola /&amp;nbsp;ଗୋଲା" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFDEFC;strokeColor=#ae4132;fontStyle=1;fontSize=14;" vertex="1" parent="De0PxG4or32B9p8G-UYy-127">
           <mxGeometry y="95" width="155.67567567567565" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="De0PxG4or32B9p8G-UYy-131" value="&lt;font style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: left; font-size: 40px;&quot;&gt;Vansh /&amp;nbsp;ବଂଶ: Geruaa / ଗେରୁଆ&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: left; font-size: 40px;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 40px;&quot;&gt;Gotra /&amp;nbsp;ଗୋତ୍ର: Gayeghat / ଗାଏଘାଟ&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4590" y="50" width="740" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
